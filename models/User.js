@@ -1,4 +1,4 @@
-const mongoose = requrie('mongoose');
+const mongoose = require('mongoose');
 
 //schema 만들기
 const userSchema = mongoose.Schema({
